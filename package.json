@@ -1,6 +1,6 @@
 {
   "name": "stockulus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A personal card for Christoph Stock (@stockulus)",
   "main": "./bin/card.js",
   "bin": {
@@ -21,7 +21,6 @@
   "homepage": "https://github.com/stockulus/stockulus#readme",
   "dependencies": {
     "boxen": "2.1.0",
-    "chalk": "2.4.1",
-    "commander": "2.19.0"
+    "chalk": "2.4.1"
   }
 }
